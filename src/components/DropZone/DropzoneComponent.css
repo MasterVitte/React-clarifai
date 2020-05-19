@@ -1,0 +1,17 @@
+.dropzone-box {
+    max-width: 1600px;
+    margin: 0 auto;
+    outline: none;
+}
+
+.dropzone-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 500px;
+    margin: 10px;
+
+    cursor: pointer;
+    border: 1px dotted #ccc;
+}
